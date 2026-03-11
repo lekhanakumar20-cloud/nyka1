@@ -9,6 +9,6 @@ primer,
 hydration gel, 
 add to cart, 
 select payment type, 
-place order, 
+place order
 
 
